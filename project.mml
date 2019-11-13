@@ -53,6 +53,7 @@ Stylesheet:
   - aerialways.mss
   - admin.mss
   - addressing.mss
+  - contours.mss
 Layer:
   - id: landcover-low-zoom
     geometry: polygon
